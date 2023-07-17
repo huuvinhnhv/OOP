@@ -1,0 +1,90 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Danh Sách Chức Năng Quản Lý Cửa Hàng</h1>
+</div>
+<br />
+<br />
+<div class="text-center">
+    <table class="table table-bordered table-hover">
+        <tr>
+            <th>Quản lý sản phẩm</th>
+            <th>Quản lý loại hàng</th>
+            <th>Quản lý hóa đơn nhập hàng</th>
+            <th>Quản lý hóa đơn xuất hàng</th>
+            <th>Quản lý thông kê</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="/MH_SanPham/MH_TaoSanPham">Tạo sản phẩm</a>
+            </td>
+            <td>
+                <a href="/MH_LoaiHang/MH_TaoLoaiHang">Tạo Loại Hàng</a>
+            </td>
+            <td>
+                <a href="/MH_NhapHang/MH_TaoHoaDonNhapHang">Tạo Hóa Đơn</a>
+            </td>
+            <td>
+                <a href="/MH_XuatHang/MH_TaoHoaDonXuatHang">Tạo Hóa Đơn</a>
+            </td>
+            <td>
+                <a href="/MH_ThongKe/MH_ThongKeLoaiHang">Số hàng còn lại</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="/MH_SanPham/MH_TimKiemSanPham">Tìm kiếm</a>
+            </td>
+            <td>
+                <a href="/MH_LoaiHang/MH_TimKiemLoaiHang">Tìm kiếm</a>
+            </td>
+            <td>
+                <a href="/MH_NhapHang/MH_TimKiem">Tìm Kiếm</a>
+            </td>
+            <td>
+                <a href="/MH_XuatHang/MH_TimKiem">Tìm Kiếm</a>
+            </td>
+            <td>
+                <a href="/MH_ThongKe/MH_ThongKeHangHetHan">Số hàng cũ đã hết hạn</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="/MH_SanPham/MH_TimKiemSanPham">Sửa sản phẩm</a>
+            </td>
+            <td>
+                <a href="/MH_LoaiHang/MH_TimKiemLoaiHang">Sửa loại hàng</a>
+            </td>
+            <td>
+                <a href="/MH_NhapHang/MH_TimKiem">Sửa Hóa Đơn</a>
+            </td>
+            <td>
+                <a href="/MH_XuatHang/MH_TimKiem">Sửa Hóa Đơn</a>
+            </td>
+            <td>
+                -----
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="/MH_SanPham/MH_TimKiemSanPham">Xóa sản phẩm</a>
+            </td>
+            <td>
+                <a href="/MH_LoaiHang/MH_TimKiemLoaiHang">Xóa loại hàng</a>
+            </td>
+            <td>
+                <a href="/MH_NhapHang/MH_TimKiem">Xóa Hóa Đơn</a>
+            </td>
+            <td>
+                <a href="/MH_XuatHang/MH_TimKiem">Xóa Hóa Đơn</a>
+            </td>
+            <td>
+                -----
+            </td>
+        </tr>
+    </table>
+</div>

@@ -1,0 +1,15 @@
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\bin\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.deps.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\bin\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\bin\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\bin\Debug\netcoreapp3.1\QuanLyCuaHang.Entities.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\bin\Debug\netcoreapp3.1\QuanLyCuaHang.Entities.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.csproj.AssemblyReference.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.AssemblyInfoInputs.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.AssemblyInfo.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.csproj.CoreCompileInputs.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.csproj.CopyComplete
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QuanLyCuaHang_21880159_DAL\obj\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.pdb

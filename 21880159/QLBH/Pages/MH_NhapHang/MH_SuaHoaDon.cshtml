@@ -1,0 +1,49 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_NhapHang.MH_SuaHoaDonModel
+@{
+}
+@if (Model.CoHoaDon)
+{
+    <form method="post">
+        <h4>Sửa hóa đơn</h4>
+        <label>Mã hóa đơn: @Model.hd.MaHoaDon</label>
+        <input type="text" name="MaHoaDon" hidden value="@Model.hd.MaHoaDon" class="form-control" />
+        <br />
+        <label>Ngày tạo hóa đơn</label>
+        <input type="text" name="newdate" value="@Model.hd.NgayLap" class="form-control" />
+        <input asp-page-handler="dateedit" type="submit" value="Sửa" />
+        @Model.Chuoi2
+        <h5>Danh sách sản phẩm</h5>
+        <br />
+        @Model.Chuoi3
+        @Model.Chuoi4
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th>STT</th>
+                <th>Mã sản phẩm</th>
+                <th>Tên sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá tiền</th>
+                <th>Thành tiền</th>
+                <th>Hành động</th>
+            </tr>
+            @foreach (var sp in Model.hd.DSSP)
+            {
+                <tr>
+                    <td>@sp.STT</td>
+                    <td>@sp.MaLoaiHang</td>
+                    <td>@sp.TenSanPham</td>
+                    <td>@sp.SoLuong</td>
+                    <td>@sp.GiaSanPham</td>
+                    <td>@sp.ThanhTien</td>
+                    <td>
+                        <input asp-page-handler="remove" type="submit" class="btn btn-info" value="Xóa sản phẩm" />
+                    </td>
+                </tr>
+            }
+        </table>
+        <br />
+        <a class="btn btn-info" href="/MH_NhapHang/MH_TimKiem">Quay về tìm kiếm</a>
+    </form>
+}
+@Model.Chuoi

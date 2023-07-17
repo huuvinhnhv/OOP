@@ -1,0 +1,20 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_SanPham.MH_XoaSanPhamModel
+@{
+}
+@if (Model.CoSanPham)
+{
+    <form method="post">
+        <div>Bạn có muốn xóa sản phẩm @Model.SanPham.TenSanPham không?</div><br />
+        <input type="submit" value="Xóa" /><br /><br />
+        <a href="MH_TimKiemSanPham">Quay lại trang tìm kiếm</a>
+    </form>
+}
+else
+{
+    @Model.Chuoi
+    <a href="MH_TimKiemSanPham">Quay lại trang tìm kiếm</a>
+}
+
+
+

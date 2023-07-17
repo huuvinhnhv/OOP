@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\QuanLyCuaHang_21880159.DAL.csproj" />
+    <ProjectReference Include="..\Entity\QuanLyCuaHang_21880159.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

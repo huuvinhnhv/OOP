@@ -1,0 +1,17 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_LoaiHang.MH_XoaLoaiHangModel
+@{
+}
+@if (Model.CoLoaiHang)
+{
+    <form method="post">
+        <div>Bạn có muốn xóa loại hàng @Model.LoaiHang.TenLoaiHang không?</div><br />
+        <input type="submit" value="Xóa" /><br /><br />
+        <a href="MH_TimKiemLoaiHang">Quay lại trang tìm kiếm</a>
+    </form>
+}
+else
+{
+    @Model.Chuoi
+    <a href="MH_TimKiemLoaiHang">Quay lại trang tìm kiếm</a>
+}

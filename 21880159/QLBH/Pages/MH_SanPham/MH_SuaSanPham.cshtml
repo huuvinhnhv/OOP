@@ -1,0 +1,23 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_SanPham.MH_SuaSanPhamModel
+@{
+}
+@if (Model.CoSanPham)
+{
+    <form method="post">
+        <label>Nhập tên phẩm:</label><br>
+        <input type="text" name="TenSanPham" value="@Model.SanPham.TenSanPham" class="form-control" /><br>
+        <label>Nhập hạn sử dụng (tháng):</label><br>
+        <input type="text" name="HanSuDung" value="@Model.SanPham.HanSuDung" class="form-control" /><br>
+        <label>Nhập công ty sản xuất:</label><br>
+        <input type="text" name="CtySanXuat" value="@Model.SanPham.CtySanXuat" class="form-control" /><br>
+        <label>Nhập ngày sản xuất:</label><br>
+        <input type="text" name="NgaySanXuat" value="@Model.SanPham.NgaySanXuat" class="form-control" /><br>
+        <label>Nhập mã loại hàng:</label><br>
+        <input type="text" name="MaLoaiHang" value="@Model.SanPham.MaLoaiHang" class="form-control" /><br>
+        <label>Nhập giá phẩm:</label><br>
+        <input type="text" name="GiaSanPham" value="@Model.SanPham.GiaSanPham" class="form-control" /><br><br>
+        <input type="submit" class="btn btn-info" value="Sửa Sản Phẩm" />
+    </form>
+}
+@Model.Chuoi

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "VUuoOK5mfK5nXiYYXbqKQzJxASrWk+rjXru2+HoKIKWzUEo2fjwLQA9HLJnPtLuuO1FSOqAgLLQaxBpLsJJUqg==",
+  "success": false,
+  "projectFilePath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\QuanLyCuaHang_21880159_DAL\\QuanLyCuaHang_21880159.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huuvi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\QuanLyCuaHang.Entities.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\QuanLyCuaHang.Entities.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

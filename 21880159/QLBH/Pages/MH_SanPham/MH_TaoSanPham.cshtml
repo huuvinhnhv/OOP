@@ -1,0 +1,30 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_SanPham.MH_TaoSanPhamModel
+@{
+}
+<h1 class="text-center py-3">Nhập thông tin sản phẩm</h1>
+<form method="post" class="w-50">
+    <label>Nhập mã sản phẩm:</label><br>
+    <input type="text" name="MaSanPham" value="" class="form-control" required/><br>
+    <label>Nhập tên phẩm:</label><br>
+    <input type="text" name="TenSanPham" value="" class="form-control" required/><br>
+    <label>Nhập hạn sử dụng (tháng):</label><br>
+    <input type="text" name="HanSuDung" value="" class="form-control" required/><br>
+    <label>Nhập công ty sản xuất:</label><br>
+    <input type="text" name="CtySanXuat" value="" class="form-control" required/><br>
+    <label>Nhập ngày sản xuất:</label><br>
+    <input type="date" name="NgaySanXuat" value="" class="form-control" required/><br>
+    <label>Nhập mã loại hàng:</label><br>
+    <input list="maloaihang" name="MaLoaiHang" class="form-control" required/>
+    <datalist id="maloaihang">
+        @foreach (var sp in Model.dslh)
+        {
+            <option value="@sp.MaLoaiHang">@sp.TenLoaiHang</option>
+        }
+    </datalist><br />
+    <label>Nhập giá phẩm:</label><br>
+    <input type="number" name="GiaSanPham" value="" class="form-control" required/><br>
+    <input type="submit" value="Thêm Sản Phẩm" class="btn btn-info" />
+</form>
+<br>
+@Model.Chuoi

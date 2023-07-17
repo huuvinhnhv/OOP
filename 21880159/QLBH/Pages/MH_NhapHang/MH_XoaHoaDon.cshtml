@@ -1,0 +1,17 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_NhapHang.MH_XoaHoaDonModel
+@{
+
+}
+@if (Model.CoHoaDon)
+{
+    <form method="post">
+        <h4>Bạn có muốn xóa hóa đơn có mã @Model.id không? </h4>
+        <input type="submit" name="name" value="Xóa" />
+    </form>
+}
+@Model.Chuoi
+<br />
+<a class="btn btn-info" href="/MH_NhapHang/MH_TimKiem">Quay về tìm kiếm</a>
+<a class="btn btn-info" href="/MH_NhapHang/MH_TaoHoaDonNhapHang">Tạo thêm hóa đơn</a>
+<br />

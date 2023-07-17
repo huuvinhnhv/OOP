@@ -1,0 +1,26 @@
+[
+  {
+    "MaLoaiHang": "BUTBI",
+    "TenLoaiHang": "Bút bi"
+  },
+  {
+    "MaLoaiHang": "TAPHOCSINH",
+    "TenLoaiHang": "Tập học sinh"
+  },
+  {
+    "MaLoaiHang": "SOTAY",
+    "TenLoaiHang": "Sổ tay"
+  },
+  {
+    "MaLoaiHang": "PHAN",
+    "TenLoaiHang": "Phấn không bụi"
+  },
+  {
+    "MaLoaiHang": "BUTLONG",
+    "TenLoaiHang": "Bút lông"
+  },
+  {
+    "MaLoaiHang": "BUTCHI",
+    "TenLoaiHang": "Bút chì"
+  }
+]

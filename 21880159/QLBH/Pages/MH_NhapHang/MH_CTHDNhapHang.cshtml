@@ -1,0 +1,46 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_NhapHang.MH_CTHDNhapHangModel
+@using QuanLyCuaHang_21880159.Entities;
+@{
+}
+
+@if (Model.CoHD)
+{
+    <h3 style="text-align:center">Chi Tiết Hóa Đơn Nhập Hàng</h3>
+    <br />
+    <br />
+
+    <p>Mã hóa đơn: @Model.hd.MaHoaDon </p>
+    <br />
+    <p>Ngày lập hóa đơn: @Model.hd.NgayLap </p>
+    <br />
+    <table class="table table-bordered table-hover">
+        <tr>
+            <th>STT</th>
+            <th>Tên Sản Phẩm</th>
+            <th>Số lượng</th>
+            <th>Giá sản phẩm</th>
+            <th>Thành tiền</th>
+        </tr>
+        @foreach (var sp in Model.hd.DSSP)
+        {
+            <tr>
+                <td>@sp.STT</td>
+                <td>@sp.TenSanPham</td>
+                <td>@sp.SoLuong</td>
+                <td>@sp.GiaSanPham</td>
+                <td>@sp.ThanhTien</td>
+            </tr>
+        }
+
+    </table>
+    <p><b>Tổng tiền: @Model.hd.TongTien </b></p>
+}
+@Model.Chuoi
+<br />
+<a class="btn btn-info" href="/MH_NhapHang/MH_TaoHoaDonNhapHang">Tạo thêm hóa đơn</a>
+<a class="btn btn-info" href="/MH_NhapHang/MH_TimKiem">Quay về tìm kiếm</a>
+
+<br />
+
+

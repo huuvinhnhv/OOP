@@ -1,0 +1,36 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_LoaiHang.MH_TimKiemLoaiHangModel
+@{
+}
+<form method="post">
+    <label for="searchOptions">Tìm kiếm sản phẩm theo:</label><br />
+    <select name="SearchOptions" class="custom-select">
+        <option value="1">Mã loại hàng</option>
+        <option value="2">Tên loại hàng</option>
+    </select><br /><br />
+    <label>Nhập thông tin tìm kiếm:</label><br>
+    <input type="text" name="Keyword" value="" class="form-control" /><br />
+    <input type="submit" value="Tìm kiếm" class="btn btn-info" /><br /><br />
+    <a href="/MH_LoaiHang/MH_TaoLoaiHang" class="btn btn-outline-info">Thêm loại hàng mới</a>
+</form>
+<br />
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th style="text-align:center">Mã Loại hàng</th>
+        <th style="text-align:center">Tên Loại hàng</th>
+        <th style="text-align:center">Hành động</th>
+    </tr>
+    @foreach (var lh in Model.dslh)
+    {
+        <tr>
+            <td>@lh.MaLoaiHang</td>
+            <td>@lh.TenLoaiHang</td>
+
+            <td style="text-align:center">
+                <a href="MH_XoaLoaiHang?id=@lh.MaLoaiHang">Xóa</a>
+                <a href="MH_SuaLoaiHang?id=@lh.MaLoaiHang">Sửa</a>
+            </td>
+        </tr>
+    }
+</table>

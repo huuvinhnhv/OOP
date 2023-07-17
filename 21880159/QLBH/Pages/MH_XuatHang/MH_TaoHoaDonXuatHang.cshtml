@@ -1,0 +1,100 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model QuanLyCuaHang_21880159.Pages.MH_XuatHang.MH_TaoHoaDonXuatHangModel
+@using QuanLyCuaHang_21880159.Entities
+@{
+}
+<h3 style="text-align:center">Tạo hóa đơn xuất hàng</h3>
+<form method="post">
+    <label for="searchOptions">Tìm kiếm sản phẩm theo:</label><br />
+    <select name="SearchOptions" class="custom-select">
+        <option value="1">Mã sản phẩm</option>
+        <option value="2">Tên sản phẩm</option>
+    </select><br /><br />
+    <label>Nhập thông tin tìm kiếm:</label><br>
+    <input type="text" name="Keyword" value="" class="form-control" /><br />
+    <input asp-page-handler="search" type="submit" value="Tìm kiếm" class="btn btn-info" />
+</form>
+<br>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th style="text-align : center">Mã sản phẩm</th>
+        <th style="text-align : center">Tên sản phẩm</th>
+        <th style="text-align : center">Giá nhập</th>
+        <th style="text-align : center">Chọn sản phẩm</th>
+    </tr>
+    @foreach (SanPham s in Model.dssp)
+    {
+        <tr>
+            <td style="text-align : center">@s.MaSanPham</td>
+            <td style="text-align : center">@s.TenSanPham</td>
+            <td style="text-align : center">@s.GiaSanPham</td>
+            <td style="text-align : center">
+                <a href="MH_TaoHoaDonXuatHang?id=@s.MaSanPham">Chọn</a>
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<h5>Thêm thông tin sản phẩm</h5>
+<h4>@Model.Chuoi3</h4>
+<form method="post">
+    <table class="table table-bordered table-hover">
+        <tr>
+            <th style="text-align : center">Mã sản phẩm</th>
+            <th style="text-align : center">Tên sản phẩm</th>
+            <th style="text-align : center">Số lượng</th>
+            <th style="text-align : center">Giá nhập</th>
+            <th style="text-align : center">Chọn sản phẩm</th>
+        </tr>
+        @if (Model.CoSanPham)
+        {
+            <tr>
+                <td style="text-align : center">
+                    @Model.sp2.MaSanPham
+                    <input type="hidden" name="MaSanPham" value="@Model.sp2.MaSanPham" />
+                </td>
+                <td style="text-align : center">@Model.sp2.TenSanPham</td>
+                <td style="text-align : center">
+                    <input type="text" name="SoLuong" value="@Model.sp2.SoLuong" />
+                </td>
+                <td style="text-align : center">@Model.sp2.GiaSanPham</td>
+                <td style="text-align : center">
+                    <input type="submit" asp-page-handler="add" value="Lưu" />
+                </td>
+            </tr>
+        }
+    </table>
+</form>
+<br />
+<h5>Thêm thông tin hóa đơn</h5>
+@Model.Chuoi2
+<form method="post">
+    <table class="table table-bordered table-hover">
+        <tr>
+            <th style="text-align : center">STT</th>
+            <th style="text-align : center">Mã sản phẩm</th>
+            <th style="text-align : center">Tên sản phẩm</th>
+            <th style="text-align : center">Số lượng</th>
+            <th style="text-align : center">Giá nhập</th>
+            <th style="text-align : center">Thành tiền</th>
+        </tr>
+        @if (Model.dsspThem != null)
+        {
+            foreach (var s in Model.dsspThem)
+            {
+                <tr>
+                    <td style="text-align : center">@s.STT</td>
+                    <td style="text-align : center">@s.MaSanPham</td>
+                    <td style="text-align : center">@s.TenSanPham</td>
+                    <td style="text-align : center">@s.SoLuong</td>
+                    <td style="text-align : center">@s.GiaSanPham</td>
+                    <td style="text-align : center">@s.ThanhTien</td>
+                </tr>
+            }
+        }
+    </table>
+    <input type="submit" asp-page-handler="create" class="btn btn-success" value="Tạo hóa đơn" />
+</form>
+

@@ -1,0 +1,15 @@
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\obj\Debug\netcoreapp3.1\QuanLyCuaHang.Service.csproj.AssemblyReference.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\obj\Debug\netcoreapp3.1\QuanLyCuaHang.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\obj\Debug\netcoreapp3.1\QuanLyCuaHang.Service.AssemblyInfoInputs.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\obj\Debug\netcoreapp3.1\QuanLyCuaHang.Service.AssemblyInfo.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\obj\Debug\netcoreapp3.1\QuanLyCuaHang.Service.csproj.CoreCompileInputs.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\bin\Debug\netcoreapp3.1\QuanLyCuaHang.Service.deps.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\bin\Debug\netcoreapp3.1\QuanLyCuaHang.Service.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\bin\Debug\netcoreapp3.1\QuanLyCuaHang.Service.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\bin\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\bin\Debug\netcoreapp3.1\QuanLyCuaHang.Entities.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\bin\Debug\netcoreapp3.1\QuanLyCuaHang.Entities.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\bin\Debug\netcoreapp3.1\QuanLyCuaHang.DAL.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\obj\Debug\netcoreapp3.1\QuanLyCuaHang.Service.csproj.CopyComplete
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\obj\Debug\netcoreapp3.1\QuanLyCuaHang.Service.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA\21880159\QuanLyCuaHang.Service\obj\Debug\netcoreapp3.1\QuanLyCuaHang.Service.pdb

@@ -1,0 +1,14 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_LoaiHang.MH_SuaLoaiHangModel
+@{
+}
+@if (Model.CoLoaiHang)
+{
+    <form method="post">
+        <label>Nhập tên loại hàng:</label><br>
+        <input class="form-control" type="text" name="TenLoaiHang" value="@Model.LoaiHang.TenLoaiHang" /><br>
+
+        <input type="submit" value="Sửa loại hàng" class="btn btn-info" />
+    </form>
+}
+@Model.Chuoi

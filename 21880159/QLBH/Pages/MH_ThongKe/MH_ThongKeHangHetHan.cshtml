@@ -1,0 +1,31 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_ThongKe.MH_ThongKeHangHetHanModel
+@{
+}
+<h1 style="text-align:center">Thống kê sản phẩm hết hạn</h1>
+<br />
+<br />
+<table class="table table-bordered table-hover">
+    <tr>
+        <th style="text-align:center">Mã sản phẩm</th>
+        <th style="text-align:center">Tên sản phẩm</th>
+        <th style="text-align:center">Công ty sản xuât</th>
+        <th style="text-align:center">Hạn sử dụng</th>
+        <th style="text-align:center">Ngày sản xuất</th>
+        <th style="text-align:center">Giá</th>
+        <th style="text-align:center">Số lượng tồn</th>
+    </tr>
+    @foreach (var s in Model.dssp)
+    {
+        <tr>
+            <td>@s.MaSanPham</td>
+            <td>@s.TenSanPham</td>
+            <td>@s.MaLoaiHang</td>
+            <td>@s.HanSuDung</td>
+            <td>@s.NgaySanXuat</td>
+            <td>@s.GiaSanPham</td>
+            <td>@s.SoLuong</td>
+        </tr>
+    }
+
+</table>

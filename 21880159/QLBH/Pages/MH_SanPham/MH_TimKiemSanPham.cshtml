@@ -1,0 +1,48 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_SanPham.MH_TimKiemSanPhamModel
+@using QuanLyCuaHang_21880159.Entities
+@{
+}
+<form method="post">
+    <label for="searchOptions">Tìm kiếm sản phẩm theo:</label><br />
+    <select name="SearchOptions" class="custom-select">
+        <option value="1">Mã sản phẩm</option>
+        <option value="2">Tên sản phẩm</option>
+    </select><br /><br />
+    <label>Nhập thông tin tìm kiếm:</label><br>
+    <input type="text" name="Keyword" value="" class="form-control" /><br />
+    <input type="submit" value="Tìm kiếm" class="btn btn-info" /><br /><br />
+    <a href="/MH_SanPham/MH_TaoSanPham" class="btn btn-outline-info">Thêm sản phẩm mới</a><br /><br />
+</form>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th style="text-align:center">Mã sản phẩm</th>
+        <th style="text-align:center">Tên sản phẩm</th>
+        <th style="text-align:center">Công ty sản xuât</th>
+        <th style="text-align:center">Hạn sử dụng</th>
+        <th style="text-align:center">Ngày sản xuất</th>
+        <th style="text-align:center">Giá</th>
+        <th style="text-align:center">Số lượng tồn</th>
+        <th style="text-align:center">Mã Loại hàng</th>
+        <th style="text-align:center">Hành động</th>
+    </tr>
+    @foreach (SanPham s in Model.dssp)
+    {
+        <tr>
+            <td>@s.MaSanPham</td>
+            <td>@s.TenSanPham</td>
+            <td>@s.CtySanXuat</td>
+            <td>@s.HanSuDung</td>
+            <td>@s.NgaySanXuat</td>
+            <td>@s.GiaSanPham</td>
+            <td>@s.SoLuong</td>
+            <td>@s.MaLoaiHang</td>
+            <td style="text-align:center">
+                <a href="MH_XoaSanPham?id=@s.MaSanPham">Xóa</a>
+                <a href="MH_SuaSanPham?id=@s.MaSanPham">Sửa</a>
+            </td>
+        </tr>
+    }
+
+</table>

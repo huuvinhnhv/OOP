@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Service\\QuanLyCuaHang_21880159.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\DAL\\QuanLyCuaHang_21880159.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\DAL\\QuanLyCuaHang_21880159.DAL.csproj",
+        "projectName": "QuanLyCuaHang_21880159.DAL",
+        "projectPath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\DAL\\QuanLyCuaHang_21880159.DAL.csproj",
+        "packagesPath": "C:\\Users\\huuvi\\.nuget\\packages\\",
+        "outputPath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\huuvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\QuanLyCuaHang_21880159.Entities.csproj": {
+                "projectPath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\QuanLyCuaHang_21880159.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\QuanLyCuaHang_21880159.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\QuanLyCuaHang_21880159.Entities.csproj",
+        "projectName": "QuanLyCuaHang_21880159.Entities",
+        "projectPath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\QuanLyCuaHang_21880159.Entities.csproj",
+        "packagesPath": "C:\\Users\\huuvi\\.nuget\\packages\\",
+        "outputPath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\huuvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Service\\QuanLyCuaHang_21880159.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Service\\QuanLyCuaHang_21880159.Service.csproj",
+        "projectName": "QuanLyCuaHang_21880159.Service",
+        "projectPath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Service\\QuanLyCuaHang_21880159.Service.csproj",
+        "packagesPath": "C:\\Users\\huuvi\\.nuget\\packages\\",
+        "outputPath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\huuvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\DAL\\QuanLyCuaHang_21880159.DAL.csproj": {
+                "projectPath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\DAL\\QuanLyCuaHang_21880159.DAL.csproj"
+              },
+              "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\QuanLyCuaHang_21880159.Entities.csproj": {
+                "projectPath": "D:\\HUS\\HK2\\LapTrinhHuongDoiTuong\\Nop DA - 1\\21880159\\Entity\\QuanLyCuaHang_21880159.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

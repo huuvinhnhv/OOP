@@ -1,0 +1,28 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_ThongKe.MH_ThongKeLoaiHangModel
+@{
+}
+<h1 style="text-align:center">Thống kê hàng tồn kho</h1>
+<form method="post">
+    <label>Nhập mã loại hàng:</label><br>
+    <input type="text" name="Keyword" value="" class="form-control" />
+    <br />
+    <input type="submit" class="btn btn-info" value="Tìm kiếm" /><br />
+    <br />
+</form>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th style="text-align:center">Mã Loại hàng</th>
+        <th style="text-align:center">Tên Loại hàng</th>
+        <th style="text-align:center">Số lượng tồn</th>
+    </tr>
+    @foreach (var k in Model.dstk)
+    {
+        <tr>
+            <td>@k.Key.MaLoaiHang</td>
+            <td>@k.Key.TenLoaiHang</td>
+            <td>@k.Value</td>
+        </tr>
+    }
+</table>

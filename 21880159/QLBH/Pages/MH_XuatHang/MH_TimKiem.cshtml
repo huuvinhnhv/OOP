@@ -1,0 +1,38 @@
+﻿@page
+@model QuanLyCuaHang_21880159.Pages.MH_XuatHang.MH_TimKiemModel
+@using QuanLyCuaHang_21880159.Entities;
+@{
+}
+
+<form method="post">
+    <label>Nhập mã hóa đơn:</label><br />
+    <input type="text" name="Keyword" value="" class="form-control" class="form-control" /><br>
+    <input type="submit" value="Tìm kiếm" class="btn btn-info" />
+</form>
+<h3 style="text-align:center">Danh sách hóa đơn</h3>
+<a href="/MH_XuatHang/MH_TaoHoaDonXuatHang" class="btn btn-outline-info">Tạo hóa đơn</a>
+<br />
+<br />
+<table class="table table-bordered table-hover">
+    <tr>
+        <th style="text-align:center">Mã hóa đơn</th>
+        <th style="text-align:center">Ngày lập</th>
+        <th style="text-align:center">Tổng tiền</th>
+        <th style="text-align:center">Hành động</th>
+    </tr>
+    @foreach (var hd in Model.dshd)
+    {
+        <tr>
+            <td>@hd.MaHoaDon</td>
+            <td>@hd.NgayLap</td>
+            <td>@hd.TongTien</td>
+            <td style="text-align:center">
+                <a href="/MH_XuatHang/MH_CTHDXuatHang?id=@hd.MaHoaDon">Xem Chi Tiêt</a>
+                <a href="/MH_XuatHang/MH_SuaHoaDon?id=@hd.MaHoaDon">Sửa</a>
+                <a href="/MH_XuatHang/MH_XoaHoaDon?id=@hd.MaHoaDon">Xóa</a>
+            </td>
+        </tr>
+    }
+</table>
+
+

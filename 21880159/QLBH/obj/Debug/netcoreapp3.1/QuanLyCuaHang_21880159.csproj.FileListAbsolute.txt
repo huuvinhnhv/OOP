@@ -1,0 +1,319 @@
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\danhsachhoadonnhaphang.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\danhsachloaihang.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\danhsachsanpham.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.exe
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.deps.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.dev.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.dll
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfoInputs.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfo.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CoreCompileInputs.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.MvcApplicationPartsAssemblyInfo.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHang_21880159.StaticWebAssets.Manifest.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHang_21880159.StaticWebAssets.xml
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\scopedcss\bundle\QuanLyCuaHang_21880159.styles.css
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.input.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.output.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorCoreGenerate.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_SuaLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TaoLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TimKiemLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_XoaLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_CTHDNhapHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TaoHoaDon.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TaoHoaDonNhapHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_ThemSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_SuaSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TaoSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TimKiemSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_XoaSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CopyComplete
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.genruntimeconfig.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.AssemblyReference.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\Demo2\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TimKiem.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\danhsachhoadonnhaphang.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\danhsachloaihang.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\danhsachsanpham.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.exe
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.deps.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.dev.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.dll
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfoInputs.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfo.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CoreCompileInputs.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.MvcApplicationPartsAssemblyInfo.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHang_21880159.StaticWebAssets.Manifest.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHang_21880159.StaticWebAssets.xml
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\scopedcss\bundle\QuanLyCuaHang_21880159.styles.css
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.input.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.output.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorCoreGenerate.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_SuaLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TaoLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TimKiemLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_XoaLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_CTHDNhapHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TaoHoaDonNhapHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TimKiem.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_SuaSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TaoSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TimKiemSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_XoaSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CopyComplete
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.genruntimeconfig.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.AssemblyReference.cache
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\danhsachsanphamnhaphangtemp.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_XoaHoaDon.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_SuaHoaDon.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\danhsachsanphamxuathangtemp.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_SuaHoaDon.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_TaoHoaDonXuatHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_TimKiem.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_XoaHoaDon.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\bin\Debug\netcoreapp3.1\danhsachhoadonxuathang.json
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_CTHDXuatHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_ThongKe\MH_ThongKeLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Demo\Demo2\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_ThongKe\MH_ThongKeHangHetHan.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachhoadonnhaphang.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachhoadonxuathang.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachloaihang.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachsanpham.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachsanphamnhaphangtemp.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachsanphamxuathangtemp.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.exe
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.deps.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.dev.json
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.dll
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.AssemblyReference.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfoInputs.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfo.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CoreCompileInputs.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.MvcApplicationPartsAssemblyInfo.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHang_21880159.StaticWebAssets.Manifest.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHang_21880159.StaticWebAssets.xml
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\scopedcss\bundle\QuanLyCuaHang_21880159.styles.css
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.input.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.output.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorCoreGenerate.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_SuaLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TaoLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TimKiemLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_XoaLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_CTHDNhapHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_SuaHoaDon.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TaoHoaDonNhapHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TimKiem.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_XoaHoaDon.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_SuaSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TaoSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TimKiemSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_XoaSanPham.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_ThongKe\MH_ThongKeHangHetHan.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_ThongKe\MH_ThongKeLoaiHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_CTHDXuatHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_SuaHoaDon.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_TaoHoaDonXuatHang.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_TimKiem.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_XoaHoaDon.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cache
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cs
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CopyComplete
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.genruntimeconfig.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachhoadonnhaphang.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachhoadonxuathang.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachloaihang.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachsanpham.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachsanphamnhaphangtemp.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachsanphamxuathangtemp.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.StaticWebAssets.xml
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.exe
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.deps.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.dev.json
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.dll
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.AssemblyReference.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfoInputs.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfo.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CoreCompileInputs.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.MvcApplicationPartsAssemblyInfo.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHang_21880159.StaticWebAssets.Manifest.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.input.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.output.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorCoreGenerate.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_SuaLoaiHang.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TaoLoaiHang.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TimKiemLoaiHang.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_XoaLoaiHang.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_CTHDNhapHang.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_SuaHoaDon.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TaoHoaDonNhapHang.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TimKiem.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_XoaHoaDon.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_SuaSanPham.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TaoSanPham.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TimKiemSanPham.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_XoaSanPham.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_ThongKe\MH_ThongKeHangHetHan.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_ThongKe\MH_ThongKeLoaiHang.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_CTHDXuatHang.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_SuaHoaDon.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_TaoHoaDonXuatHang.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_TimKiem.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_XoaHoaDon.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cache
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cs
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CopyComplete
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\HK1\KyThuatLapTrinh\Nop DA\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.genruntimeconfig.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.AssemblyReference.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfoInputs.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.AssemblyInfo.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CoreCompileInputs.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.MvcApplicationPartsAssemblyInfo.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorAssemblyInfo.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachhoadonnhaphang.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachhoadonxuathang.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachloaihang.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachsanpham.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachsanphamnhaphangtemp.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\danhsachsanphamxuathangtemp.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.StaticWebAssets.xml
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.exe
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.deps.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.runtimeconfig.dev.json
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.DAL.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Entities.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Service.dll
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.DAL.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Entities.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\bin\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Service.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHang_21880159.StaticWebAssets.Manifest.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.input.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.TagHelpers.output.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorCoreGenerate.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_SuaLoaiHang.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TaoLoaiHang.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_TimKiemLoaiHang.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_LoaiHang\MH_XoaLoaiHang.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_CTHDNhapHang.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_SuaHoaDon.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TaoHoaDonNhapHang.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_TimKiem.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_NhapHang\MH_XoaHoaDon.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_SuaSanPham.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TaoSanPham.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_TimKiemSanPham.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_SanPham\MH_XoaSanPham.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_ThongKe\MH_ThongKeHangHetHan.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_ThongKe\MH_ThongKeLoaiHang.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_CTHDXuatHang.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_SuaHoaDon.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_TaoHoaDonXuatHang.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_TimKiem.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\MH_XuatHang\MH_XoaHoaDon.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cache
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.RazorTargetAssemblyInfo.cs
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.Views.pdb
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.csproj.CopyComplete
+D:\HUS\HK2\LapTrinhHuongDoiTuong\Nop DA - 1\21880159\QLBH\obj\Debug\netcoreapp3.1\QuanLyCuaHang_21880159.genruntimeconfig.cache
